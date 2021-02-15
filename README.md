@@ -48,3 +48,4 @@ If you want to use Ad hoc query, run below command:
 - [Docker 101](https://www.docker.com/101-tutorial)
 - [docker-airflow-tutorial](https://github.com/tuanavu/airflow-tutorial)
 - [git tutorial](https://www.atlassian.com/git/tutorials)
+- [git delete branch](https://www.freecodecamp.org/news/how-to-delete-a-git-branch-both-locally-and-remotely/)
