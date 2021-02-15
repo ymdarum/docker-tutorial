@@ -13,8 +13,8 @@ This is the repo created based on Docker tutorial. Below are my machine specs:
     To check docker version:
       - `docker version`
       - `docker-compose version`
-      
-### Steps
+ 
+### Steps - all steps are done is Windows Subsystem for Linux CMD
 1. Navigate into the intended git directory and run init command
     - `git init` 
 2. Clone this repo by doing fork and clone the repo
